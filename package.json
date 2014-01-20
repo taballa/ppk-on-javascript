@@ -1,0 +1,19 @@
+{
+  "name": "ppk-on-javascript",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/taballa/ppk-on-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taballa/ppk-on-javascript/issues"
+  },
+  "homepage": "https://github.com/taballa/ppk-on-javascript"
+}
