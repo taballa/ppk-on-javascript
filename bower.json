@@ -1,0 +1,16 @@
+{
+  "name": "ppk-on-javascript",
+  "version": "0.0.0",
+  "homepage": "https://github.com/taballa/ppk-on-javascript",
+  "authors": [
+    "TinkPad <taballa@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
