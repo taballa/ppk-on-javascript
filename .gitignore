@@ -34,3 +34,6 @@ $RECYCLE.BIN/
 .*
 !.gitignore
 *~
+
+###Porject###
+bower_components
